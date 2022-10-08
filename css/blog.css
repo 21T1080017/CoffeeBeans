@@ -29,7 +29,7 @@
  .blog .content-text-blog h3{
   font-size: 30px;
   padding-bottom: 1rem;
-  color:var(--main-color-1);
+  color:rgb(66,66,66);
   font-family: 'Montserrat', cursive;
  }
  
@@ -37,7 +37,7 @@
   padding:1rem 0;
   line-height: 2;
   font-size: 1.8rem;
-  color:var(--black);
+  color:rgb(66,66,66);
  }
 
  .connect-more{
@@ -48,11 +48,11 @@
   border-radius: 100px;
   color:var(--white-1);
   display: inline-block;
-  background-color: var(--main-color-1);
+  background-color: rgb(66,66,66);
  }
 
  .connect-more:hover{
   font-weight: 600;
-  box-shadow: 0 5px 10px rgb(55,21,16);
+  box-shadow: 0 5px 10px rgb(66,66,66);
   background-color: var(--main-color);
 }
