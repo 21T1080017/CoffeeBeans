@@ -1,0 +1,41 @@
+/*Footer*/
+  .footer{
+    bottom: 0;
+    width: 100%;
+    display: block;
+    background-color: var(--white1);
+  }
+  
+  .info {
+    display: flex;
+    padding:10px 0;
+    padding-left: 33px;
+  }
+  
+  .info .box {
+    width: 290px; /*width: 18.125rem */
+  }
+  
+  .box p {
+    line-height: 1.2;
+    color:var(--black); 
+    
+  }
+  
+  p {
+    padding: 5px 0;
+    display: block;
+  }
+  
+  .credit{
+    font-size: 85%;
+    padding: 1rem 0;
+    margin: 0px 33px;
+    color:var(--black);
+    text-align: center;
+    border-top: 2px solid var(--silver);
+  }
+  
+  .credit span {
+    color:var(--main-color);
+  }

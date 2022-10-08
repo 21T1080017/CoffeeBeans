@@ -1,0 +1,7 @@
+/*Menu*/
+.menu{
+    display: flex;
+    height: 61.45rem;
+    padding-left: 33px;
+    background-color: var(--white-1);
+}

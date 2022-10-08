@@ -1,0 +1,45 @@
+/*Blog*/
+.blog{
+  display: flex;
+  height: 61.45rem;
+  background-color: var(--white-1);
+ }
+
+  .slogan{
+  display: flex;
+  justify-content: center;
+  color: var(--white-1);
+  background-color: var(--main-color-1);
+ }
+
+ .slogan p{
+  font-weight: 500;
+  font-family: 'Montserrat', cursive;
+ }
+  
+ .blog .image img{
+  width: 100%;
+ }
+
+ .blog .content-text{
+  margin: auto 0;
+ }
+
+ .blog .content-text h3{
+  font-size: 30px;
+  padding-bottom: 1rem;
+  color:var(--main-color-1);
+  font-family: 'Montserrat', cursive;
+ }
+ 
+ .blog .content-text p{
+  padding:1rem 0;
+  line-height: 2;
+  font-size: 1.8rem;
+  color:var(--black);
+ }
+
+ .blog .content-text p a{
+  font-size: 1.5rem;
+  color:var(--main-color);
+ }

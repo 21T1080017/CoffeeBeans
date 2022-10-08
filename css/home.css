@@ -1,0 +1,45 @@
+/*Home*/
+.home{
+  display: flex;
+  height: 61.45rem;
+  padding-left: 33px;
+  background-color: var(--white-1);
+}
+
+.home img{
+  width: 80%;
+}
+
+.content-home{
+  margin: auto 0;
+}
+
+.content-text h3{
+  font-size: 5rem;
+  color:var(--main-color-1);
+  font-family: 'Merienda One', cursive;
+}
+
+.content-text p{
+  padding-top:2rem;
+  line-height: 1.4;
+  font-size: 1.8rem;
+  color:var(--black);
+}
+
+.connect-orders{
+  cursor: pointer;
+  margin-top: 2rem;
+  font-size: 1.9rem;
+  color:var(--white-1);
+  padding: 1rem 2rem;
+  align-items: center;
+  border-radius: 40px;
+  display: inline-block;
+  background-color: var(--main-color-1);
+}
+
+.connect-orders:hover{
+  font-weight: 600;
+  background-color: var(--main-color);
+}
