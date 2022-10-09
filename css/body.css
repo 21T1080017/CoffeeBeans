@@ -65,4 +65,5 @@ body {
 
 .container{
   margin: 0 auto;
+  background-color: var(--main-color-1);
 }
