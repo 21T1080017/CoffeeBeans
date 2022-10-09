@@ -65,5 +65,5 @@ body {
 
 .container{
   margin: 0 auto;
-  background-color: var(--main-color-1);
+  background-color: var(--white-1);
 }
