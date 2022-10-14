@@ -25,7 +25,7 @@
   color:var(--main-color-1);
 }
 
-.connect-learn_moren{
+.connect-learn_more{
   cursor: pointer;
   margin-top: 2rem;
   font-size: 1.9rem;
@@ -37,7 +37,7 @@
   background-color: var(--main-color-1);
 }
 
-.connect-learn_moren:hover{
+.connect-learn_more:hover{
   font-weight: 600;
   box-shadow: 0 5px 10px rgb(55,21,16);
   background-color: var(--main-color);

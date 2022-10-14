@@ -1,5 +1,5 @@
 /*Blog*/
-.blog{
+.about{
   display: flex;
   position: relative;
  }
@@ -16,24 +16,24 @@
   font-family: 'Montserrat', cursive;
  }
   
- .blog img{
+ .about img{
   width: 70.46875rem;
   height: 61.875rem;
  }
 
- .blog .content-text-blog{
+ .about .content-text-about{
   margin: auto 0;
   width: 650px;
  }
 
- .blog .content-text-blog h3{
+ .about .content-text-about h3{
   font-size: 30px;
   padding-bottom: 1rem;
   color:rgb(66,66,66);
   font-family: 'Montserrat', cursive;
  }
  
- .blog .content-text-blog p{
+ .about .content-text-about p{
   padding:1rem 0;
   line-height: 2;
   font-size: 1.6rem;
