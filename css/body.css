@@ -61,8 +61,13 @@ body {
 ::-webkit-scrollbar-thumb{
   background-color: var(--main-color);
 }
+.main{
+  margin: 0 auto;
+  max-width: 1366px;
+  background-color: var(--white-1);
+}
 
 .container{
-  margin: 0 auto;
-  max-width: 1400px;
+  margin: 0 12px;
+  max-width: 1342px;
 }

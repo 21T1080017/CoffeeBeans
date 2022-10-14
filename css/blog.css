@@ -1,8 +1,7 @@
 /*Blog*/
 .blog{
   display: flex;
-  height: 61.45rem;
-  background-color: var(--white-1);
+  position: relative;
  }
 
   .slogan{
@@ -17,8 +16,9 @@
   font-family: 'Montserrat', cursive;
  }
   
- .blog .image img{
-  width: 100%;
+ .blog img{
+  width: 70.46875rem;
+  height: 61.875rem;
  }
 
  .blog .content-text-blog{
@@ -36,7 +36,7 @@
  .blog .content-text-blog p{
   padding:1rem 0;
   line-height: 2;
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   color:rgb(66,66,66);
  }
 
