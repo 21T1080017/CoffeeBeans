@@ -1,15 +1,16 @@
 /*Home*/
 .home{
+  margin-top: 48.4px;
   display: flex;
 }
 
 .home img{
-  height: 60rem;
-  width: 91.5rem;
+  width: 60%;
 }
 
 .content-home{
   margin: auto 0;
+  padding-left: 40px;
 }
 
 .content-text-home h3{
