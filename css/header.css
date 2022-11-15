@@ -4,11 +4,12 @@
   left:0;
   right:0;
   z-index:1000;
-  position:sticky;
+  position:fixed;
   background-color: var(--white-1);
 }
 
 .header{
+  margin: 0 12px;
   display: flex;
   padding: 4px 0;
   align-items: center;
