@@ -1,11 +1,13 @@
 /*Home*/
 .home{
+  position: relative;
   margin-top: 48.4px;
   display: flex;
 }
 
 .home img{
-  width: 60%;
+  width: 811px;
+  height: 528px;
 }
 
 .content-home{
