@@ -2,7 +2,7 @@
 .menu_br{
     border-radius: 40px;
     background-image: url(../images/menu.jpg);
-    margin: 10px 85px;
+    margin: 10px 112px;
 }
 .menu-list{
     --spacing:10px;
@@ -86,7 +86,7 @@
     font-size: 20px;
 }
 .connect-more-menu{
-    margin:12px 0 12px 979px;
+    margin:12px 0 12px 892px;
     
 }
 .connect-order{

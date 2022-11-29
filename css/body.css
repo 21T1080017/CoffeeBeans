@@ -20,6 +20,7 @@
   margin: 0;
   border: none;
   outline: none;
+  font-size: 62.5%;  
   box-sizing: border-box;
   /* text-transform: capitalize; */
 }
@@ -38,21 +39,17 @@ ul {
 }
 
 html{
-  font-size: 62.5%;
-  /* overflow-x: hidden; */
   scroll-behavior: smooth;
-  /* scroll-padding-top: 6.5rem; */
 }
 
 body {
-  /* height: 1257.4vh; */
   font-size: 16px;
   font-family: 'Montserrat', sans-serif;
 }
 
-::-webkit-scrollbar{
+/* ::-webkit-scrollbar{
   width: 0px;
-}
+} */
 /* 
 ::-webkit-scrollbar-track{
   background-color: var(--white1);
